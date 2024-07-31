@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ergoertel.github.io/sitemap.html.gz
+Sitemap: https://ergoertel.github.io/app/sitemap.html.gz
+Sitemap: https://ergoertel.github.io/assets/sitemap.html.gz
+Sitemap: https://ergoertel.github.io/css/sitemap.html.gz
+Sitemap: https://ergoertel.github.io/includes/sitemap.html.gz
+Sitemap: https://ergoertel.github.io/item/sitemap.html.gz
+Sitemap: https://ergoertel.github.io/src/sitemap.html.gz
